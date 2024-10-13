@@ -8,9 +8,7 @@
 </div>
 
 ### Some Facts
-
-* 🔭 I’m currently working on [Influir](https://github.com/Influir-Automatizacao-de-Processo)
-* 🌱 I’m currently learning Python, React, Java, Spring Boot
+* 🌱 I’m currently learning Python, Java, Spring Boot
 * 💬 Ask me about anything
 * 📫 How to reach me: You can send me a personal <williamandrade1058@gmail.com>
 * ⚡ Fun fact:
